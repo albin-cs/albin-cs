@@ -14,3 +14,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Albin
+
+🎓 BCA Graduate  
+💻 Passionate about AI, Python, and Cloud Computing  
+🚀 Building projects to solve real-world problems  
+
+---
+
+## 🛠️ Skills
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+
+---
+
+## 📂 Projects
+
+### 🎬 Movie Recommendation System
+- Predicts movies based on genres  
+- Built using Python  
+- Helps users discover movies easily  
+
+🔗 [View Project](https://github.com/your-username/project-link)
+
+---
+
+## 📫 Contact Me
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your@email.com
+- ## 🚀 Skills
+![Python](https://img.shields.io/badge/Python-blue)
+![AI](https://img.shields.io/badge/AI-green)
+### 🎬 Movie Recommendation System
+A system that suggests movies based on genre similarity.
+
+**Tech Used:** Python, Pandas, Machine Learning  
+![Project Screenshot](image-link.png)
